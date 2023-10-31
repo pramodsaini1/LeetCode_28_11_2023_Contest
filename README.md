@@ -2,4 +2,4 @@
 
 # Q-01 .Minimum sum of the two array after replacing zeroes
 
-# Q-02 . 
+# Q-02 . Find k Of or Array

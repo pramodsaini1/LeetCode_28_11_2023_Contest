@@ -15,3 +15,7 @@
 # Leetcode Contest Date 18-11-2023_SUnday
 # Q-01  100122. Separate Black and White Balls
 # Q-02  100131. Make Three Strings Equal
+
+# Leetcode Contest Date 26-11-2023_SUnday
+# Q-01 100134. Count Beautiful Substrings I
+# Q-02 100139. Matrix Similarity After Cyclic Shifts
